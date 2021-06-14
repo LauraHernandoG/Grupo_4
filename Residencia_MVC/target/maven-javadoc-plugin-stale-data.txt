@@ -1,0 +1,62 @@
+@options
+@argfile
+-classpath
+'C:/Users/ngarc/.m2/repository/mysql/mysql-connector-java/8.0.24/mysql-connector-java-8.0.24.jar;C:/Users/ngarc/.m2/repository/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/ngarc/OneDrive/Documentos/NetBeansProjects/Residencia_MVC/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/ngarc/OneDrive/Documentos/NetBeansProjects/Residencia_MVC/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Residencia_MVC 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/ngarc/OneDrive/Documentos/NetBeansProjects/Residencia_MVC/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Residencia_MVC 1.0-SNAPSHOT API'
+'C:/Users/ngarc/OneDrive/Documentos/NetBeansProjects/Residencia_MVC/src/main/java/Controlador/ControladorBorrar.java'
+'C:/Users/ngarc/OneDrive/Documentos/NetBeansProjects/Residencia_MVC/src/main/java/Controlador/ControladorBuscar.java'
+'C:/Users/ngarc/OneDrive/Documentos/NetBeansProjects/Residencia_MVC/src/main/java/Controlador/ControladorInterfaz1.java'
+'C:/Users/ngarc/OneDrive/Documentos/NetBeansProjects/Residencia_MVC/src/main/java/MainApp/AppResidencia.java'
+'C:/Users/ngarc/OneDrive/Documentos/NetBeansProjects/Residencia_MVC/src/main/java/Modelo/DAO/AncianoDAO.java'
+'C:/Users/ngarc/OneDrive/Documentos/NetBeansProjects/Residencia_MVC/src/main/java/Modelo/Entidades/Anciano.java'
+'C:/Users/ngarc/OneDrive/Documentos/NetBeansProjects/Residencia_MVC/src/main/java/Resources/Conexion.java'
+'C:/Users/ngarc/OneDrive/Documentos/NetBeansProjects/Residencia_MVC/src/main/java/Vista/Interfaz1.java'
+'C:/Users/ngarc/OneDrive/Documentos/NetBeansProjects/Residencia_MVC/src/main/java/Vista/InterfazBorrar.java'
+'C:/Users/ngarc/OneDrive/Documentos/NetBeansProjects/Residencia_MVC/src/main/java/Vista/InterfazBuscar.java'
+'C:/Users/ngarc/OneDrive/Documentos/NetBeansProjects/Residencia_MVC/src/main/java/Vista/InterfazTabla.java'
+C:\Users\ngarc\.m2\repository\mysql\mysql-connector-java\8.0.24\mysql-connector-java-8.0.24.jar = 1620422826347
+C:\Users\ngarc\.m2\repository\com\google\protobuf\protobuf-java\3.11.4\protobuf-java-3.11.4.jar = 1620422826206
+C:\Users\ngarc\OneDrive\Documentos\NetBeansProjects\Residencia_MVC\src\main\java = 1623496711556
+C:\Users\ngarc\OneDrive\Documentos\NetBeansProjects\Residencia_MVC\target\site\apidocs\allclasses-index.html = 1623708035791
+C:\Users\ngarc\OneDrive\Documentos\NetBeansProjects\Residencia_MVC\target\site\apidocs\allpackages-index.html = 1623708035795
+C:\Users\ngarc\OneDrive\Documentos\NetBeansProjects\Residencia_MVC\target\site\apidocs\constant-values.html = 1623708035636
+C:\Users\ngarc\OneDrive\Documentos\NetBeansProjects\Residencia_MVC\target\site\apidocs\deprecated-list.html = 1623708035735
+C:\Users\ngarc\OneDrive\Documentos\NetBeansProjects\Residencia_MVC\target\site\apidocs\element-list = 1623708035575
+C:\Users\ngarc\OneDrive\Documentos\NetBeansProjects\Residencia_MVC\target\site\apidocs\help-doc.html = 1623708035804
+C:\Users\ngarc\OneDrive\Documentos\NetBeansProjects\Residencia_MVC\target\site\apidocs\index-all.html = 1623708035784
+C:\Users\ngarc\OneDrive\Documentos\NetBeansProjects\Residencia_MVC\target\site\apidocs\index.html = 1623708035740
+C:\Users\ngarc\OneDrive\Documentos\NetBeansProjects\Residencia_MVC\target\site\apidocs\jquery-ui.overrides.css = 1623708035850
+C:\Users\ngarc\OneDrive\Documentos\NetBeansProjects\Residencia_MVC\target\site\apidocs\member-search-index.js = 1623708035780
+C:\Users\ngarc\OneDrive\Documentos\NetBeansProjects\Residencia_MVC\target\site\apidocs\module-search-index.js = 1623708035775
+C:\Users\ngarc\OneDrive\Documentos\NetBeansProjects\Residencia_MVC\target\site\apidocs\overview-summary.html = 1623708035798
+C:\Users\ngarc\OneDrive\Documentos\NetBeansProjects\Residencia_MVC\target\site\apidocs\overview-tree.html = 1623708035730
+C:\Users\ngarc\OneDrive\Documentos\NetBeansProjects\Residencia_MVC\target\site\apidocs\package-search-index.js = 1623708035777
+C:\Users\ngarc\OneDrive\Documentos\NetBeansProjects\Residencia_MVC\target\site\apidocs\script.js = 1623708035810
+C:\Users\ngarc\OneDrive\Documentos\NetBeansProjects\Residencia_MVC\target\site\apidocs\search.js = 1623708035814
+C:\Users\ngarc\OneDrive\Documentos\NetBeansProjects\Residencia_MVC\target\site\apidocs\serialized-form.html = 1623708035653
+C:\Users\ngarc\OneDrive\Documentos\NetBeansProjects\Residencia_MVC\target\site\apidocs\stylesheet.css = 1623708035808
+C:\Users\ngarc\OneDrive\Documentos\NetBeansProjects\Residencia_MVC\target\site\apidocs\tag-search-index.js = 1623708035781
+C:\Users\ngarc\OneDrive\Documentos\NetBeansProjects\Residencia_MVC\target\site\apidocs\type-search-index.js = 1623708035778
